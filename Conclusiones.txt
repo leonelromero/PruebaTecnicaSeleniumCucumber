@@ -1,0 +1,8 @@
+Conclusiones
+
+La implementación de las pruebas automatizadas con Selenium y Cucumber demostró ser eficaz para validar los flujos críticos de la aplicación. La integración con Maven facilitó la gestión de dependencias y la ejecución de pruebas.
+
+
+Hallazgos
+
+Las versiones de las dependencias, en cierta manera no reconocían algunos de los comandos y había que actualizarlas
